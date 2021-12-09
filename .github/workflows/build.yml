@@ -1,0 +1,22 @@
+name: CI/CD
+
+on:
+  schedule:
+    # 避开高峰时间
+    - cron: "9 9 * * *"
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  # 允许手动运行
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          cd $GITHUB_WORKSPACE
+          chmod +x ./build.sh
+          ./build.sh
