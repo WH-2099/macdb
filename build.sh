@@ -26,6 +26,7 @@ build() {
         sha256sum mac.csv >sha256sum.txt
         dbfile='mac.db'
         table='mac'
+        rm "$dbfile"
         sqlite3 "$dbfile" <<_EOF
         CREATE TABLE $table (
             registry TEXT,
