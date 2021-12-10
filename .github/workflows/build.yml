@@ -4,10 +4,6 @@ on:
   schedule:
     # 避开高峰时间
     - cron: "9 9 * * *"
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
   # 允许手动运行
   workflow_dispatch:
 
