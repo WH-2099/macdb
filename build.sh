@@ -16,8 +16,10 @@ merge_csv() {
 }
 
 commit() {
-    git add sh256sum.txt mac.csv mac.db
-    git commit -m "Github Actions Auto Update"
+    git config user.name 'WH-2099 CI/CD'
+    git config user.email 'github-actions@github.com'
+    git add sha256sum.txt mac.csv mac.db
+    git commit -m "CI/CD Auto Update"
     git push
 }
 
