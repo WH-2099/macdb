@@ -7,7 +7,7 @@ download() {
 }
 
 merge_csv() {
-    for file in oui.csv mam.csv oui36.csv; do
+    for file in mam.csv oui36.csv; do
         sed -i '1d' "$file"
     done
     cat oui.csv mam.csv oui36.csv >mac.csv
@@ -38,7 +38,7 @@ build() {
         );
         CREATE INDEX assignment_index ON $table (assignment);
 _EOF
-        sqlite3 "$dbfile" ".import --csv 'mac.csv' $table"
+        sqlite3 "$dbfile" ".import --csv --skip 1 'mac.csv' $table"
         commit
     fi
 }
