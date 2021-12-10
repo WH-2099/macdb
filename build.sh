@@ -24,7 +24,6 @@ commit() {
 build() {
     if ! sha256sum -c sha256sum.txt; then
         sha256sum mac.csv >sha256sum.txt
-        build_database
         dbfile='mac.db'
         table='mac'
         sqlite3 "$dbfile" <<_EOF
