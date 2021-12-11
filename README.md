@@ -4,6 +4,12 @@ MAC 地址厂商信息数据库
 ## 功能
 通过 MAC 地址确定设备对应的制造商。 
 
+TODO:
+补充更多的厂商信息.
+- [ ] 厂商通用称呼
+- [ ] 厂商 LOGO
+- [ ] 品牌信息
+
 ## 原理
 常见的 48 位 MAC 地址事实上是由 IEEE （电气电子工程师学会）规定的，原本的正式名称是 EUI-48 (48 Bits Extended Unique Identifiers)。而 EUI-48 中包含有 OUI (Organizationally Unique Identifier)，这是 IEEE 管理并分配给相关硬件制造商的唯一标识符，通过对此部分的识别可以确定设备的制造商。
 
