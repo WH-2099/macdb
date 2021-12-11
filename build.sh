@@ -28,8 +28,9 @@ build_sqlite() {
         );
         CREATE INDEX assignment_index ON $table (assignment);
 _EOF
-    sqlite3 '.help .import'
-    sqlite3 "$dbfile" ".import --csv --skip 1 'mac.csv' $table"
+    # 运行器上 sqlite3 版本不支持以下命令
+    # sqlite3 "$dbfile" ".import --csv --skip 1 'mac.csv' $table"
+    sqlite3 -csv "$dbfile" ".import 'mac.csv' $table"
 }
 
 check_to_commit() {
