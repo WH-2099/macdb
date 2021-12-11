@@ -2,7 +2,7 @@
 MAC 地址厂商信息数据库
 
 ## 功能
-通过 MAC 地址确定设备对应的制造商。 
+通过 MAC 地址确定设备对应的制造商信息。 
 
 TODO:
 补充更多的厂商信息.
@@ -23,6 +23,15 @@ TODO:
 ### 支持的数据格式
 - [CSV](mac.csv)
 - [sqlite](mac.db)
+rr
+### 字段说明
+| 字段名 | 字段含义 | 示例 |
+| ----- | ------- | --- |
+| `registry`| 分配的 OUI 类型 | MA-L |
+| `assignment` | IEEE 分配的组织唯一识别码 | 002272 |
+| `organization_name` | 制造商的注册名称 | American Micro-Fuel Device Corp. |
+| `organization_address` | 制造商的注册地址 | 2181 Buchanan Loop Ferndale WA US 98248 |
+
 
 ### 查询步骤
 1. 取 MAC 地址前 **24** 位（对应到常用的杠分十六进制表示就是前三组的 6 个 十六进制字符，如 AA-BB-CC-DD-EE-FF 的 AABBCC）\
