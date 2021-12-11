@@ -1,9 +1,9 @@
 #!/bin/bash
 
 download() {
-    curl -sSLO 'http://standards-oui.ieee.org/oui/oui.csv'
-    curl -sSLO 'http://standards-oui.ieee.org/oui28/mam.csv'
-    curl -sSLO 'http://standards-oui.ieee.org/oui36/oui36.csv'
+    curl -LO 'http://standards-oui.ieee.org/oui/oui.csv'
+    curl -LO 'http://standards-oui.ieee.org/oui28/mam.csv'
+    curl -LO 'http://standards-oui.ieee.org/oui36/oui36.csv'
 }
 
 merge_csv() {
@@ -13,17 +13,6 @@ merge_csv() {
     cat oui.csv mam.csv oui36.csv >mac.csv
     rm oui.csv mam.csv oui36.csv
 
-}
-
-check_to_commit() {
-    if ! sha256sum -c sha256sum.txt; then
-        sha256sum mac.csv mac.db >sha256sum.txt
-        git config user.name 'WH-2099 CI/CD'
-        git config user.email 'github-actions@github.com'
-        git add sha256sum.txt mac.csv mac.db
-        git commit -m "CI/CD Auto Update"
-        git push
-    fi
 }
 
 build_sqlite() {
@@ -39,10 +28,24 @@ build_sqlite() {
         );
         CREATE INDEX assignment_index ON $table (assignment);
 _EOF
+    sqlite3 '.help .import'
     sqlite3 "$dbfile" ".import --csv --skip 1 'mac.csv' $table"
 }
 
+check_to_commit() {
+    if ! sha256sum -c sha256sum.txt; then
+        sha256sum mac.csv mac.db >sha256sum.txt
+        git config user.name 'WH-2099 CI/CD'
+        git config user.email 'github-actions@github.com'
+        git add sha256sum.txt mac.csv mac.db
+        git commit -m "CI/CD Auto Update"
+        git push
+    fi
+}
+
+
 main() {
+    set -x
     download
     merge_csv
     build_sqlite
