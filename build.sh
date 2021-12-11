@@ -46,7 +46,7 @@ check_to_commit() {
 
 
 main() {
-    set -x
+    # set -x
     download
     merge_csv
     build_sqlite
