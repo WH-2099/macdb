@@ -6386,6 +6386,8 @@ MA-L,6CA0B4,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854
 MA-L,3C9EC7,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854 
 MA-L,A4AE11,"Hon Hai Precision Industry Co., Ltd.",GuangDongShenZhen ShenZhen GuangDong CN 518109 
 MA-L,ECE6A2,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,B8FBAF,"Xiamen IPRT Technology CO.,LTD","3~5Floor,No.101,Huili Industry Park,Meixi Road,Tongan District,Xiamen,China. xiamen fujian CN 361000 "
+MA-L,348518,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12704,6 +12706,7 @@ MA-L,00A388,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854
 MA-L,38F0C8,Logitech,7700 Gateway Blvd Newark CA US 94560 
 MA-L,1CEF03,"Guangzhou V-SOLUTION Electronic Technology Co., Ltd.","Room 601,Originality Building B2, NO.162 Science Avenue,Science Town Guangzhou Guangdong CN 510663 "
 MA-L,58B03E,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
+MA-L,28BC05,BLU Products Inc,10814 NW 33rd Street Miami FL US 33172 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19063,6 +19066,8 @@ MA-L,2C93FB,Sercomm France Sarl,2/4 Rue Maurice Hartmann 92370  Issy Les Mouline
 MA-L,38A6CE,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854 
 MA-L,68EC8A,IKEA of Sweden AB,     
 MA-L,58C57E,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,B4466B,REALTIMEID AS,"Busk Bruns veg 1 , 7760 Snåsa (Norway)
+ Snåsa  NO 7760 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -31787,6 +31792,7 @@ MA-L,D452EE,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854
 MA-L,1CA0B8,"Hon Hai Precision Industry Co., Ltd.",GuangDongShenZhen ShenZhen GuangDong CN 518109 
 MA-L,E8EF05,MIND TECH INTERNATIONAL LIMITED,FLAT E 2/F RIALTO MANSION 183 KING'S RD NORTH POINT HK Hong Kong  HK 999077 
 MA-L,902106,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854 
+MA-L,4827E2,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-M,741AE09,Private,
 MA-M,208593B,IOG Products LLC,9737 LURLINE AVENUE CHATSWORTH CA US 91311 
 MA-M,B0C5CAF,Private,
@@ -35984,6 +35990,7 @@ Skyview Retail Park Randburg Gauteng ZA 2169 "
 MA-M,8C5109D,"Surpedia Technologies Co., Ltd.","5F-1, No.212, Sec 3, Datong Rd. Xhzhi Dist. New Taipei City TW 22103 "
 MA-M,8C5109E,IROOTELLUCKY Corp.,"609ho, 13, LS-ro Gunpo-si Gyeonggi-do KR 15843 "
 MA-M,0C7FEDC,"Shenzhen MoreSense Technology Co., Ltd. ","#206 Building A1,#663 Bulong Road,Dafapu Community,Bantian Street, Shenzhen Guangdong CN 518129 "
+MA-M,0C7FED7,Grandway Technology (Shenzhen) Limited,"Block 7, Zhu Keng Industrial Zone Ping Shan District Shenzhen CN 518118 "
 MA-S,70B3D5F2F,TELEPLATFORMS,"Polbina st., 3/1 Moscow  RU 109388 "
 MA-S,70B3D5719,2M Technology,802 Greenview Drive  Grand Prairie TX US 75050 
 MA-S,70B3D59FC,Truecom Telesoft Private Limited,"2nd Floor, Block N, Safal Mondeal Retail Park, S.G Highway, Bodakdev Ahmedabad Gujarat IN 380056 "
@@ -37939,6 +37946,8 @@ MA-S,8C1F64017,Farmote Limited,"92 Collingwood Street, Nelson Nelson Nelson NZ 7
 MA-S,8C1F643D4,e.p.g. Elettronica s.r.l.,Via della Crocetta 3 Oltrona di San Mamette Como (CO) IT 22070 
 MA-S,8C1F643C5,Stratis IOT,4230 Main Street Philadelphia PA US 19127 
 MA-S,8C1F643E3,FMTec GmbH - Future Management Technologies,Austraße 59e Bludenz Austria AT 6700 
+MA-S,8C1F64CC6,Genius vision digital private limted,"S-39, GF JANTA MARKET, RAJOURI GARDEN,
+NEW DELHI - 110027 new delhi new delhi IN 110027 "
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -39879,6 +39888,7 @@ MA-S,8C1F64737,Vytahy-Vymyslicky s.r.o.,Pivovarska 542 Uherske Hradiste - Jaroso
 MA-S,8C1F64BBF,Retency,19 rue Vivienne Paris  FR 75002 
 MA-S,8C1F64601,Camius,"41593 Winchester Rd., Ste 200 Temecula CA US 92590 "
 MA-S,8C1F640BE,BNB,Deongmyeongdong-ro 22beon-gil Daejeon Yuseong-gu KR 34155 
+MA-S,8C1F640AC,"Patch Technologies, Inc.","100 S Cincinnati Ave, Fifth Floor Tulsa OK US 74103 "
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
