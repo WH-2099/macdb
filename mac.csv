@@ -6421,6 +6421,7 @@ MA-L,3C39C8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,209CB4,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,ECA138,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,B067B5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,900A62,Inventus Power Eletronica do Brasil LTDA,"Av Buriti, 4285 Distrito Industrial Manaus Amazonas BR 69075000 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12757,15 +12758,15 @@ MA-L,4022D8,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,A036BC,ASUSTek COMPUTER INC.,"15,Li-Te Rd., Peitou, Taipei 112, Taiwan Taipei Taiwan TW 112 "
 MA-L,1073EB,Infiniti Electro-Optics,15 - 9th Ave S Cranbrook British Columbia CA V1C 2L9 
 MA-L,840BBB,MitraStar Technology Corp.,"No. 6, Innovation Road II, Hsinchu  TW 300 "
-MA-L,880AA3,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
-MA-L,906560,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
-MA-L,A0FB83,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,04D9C8,"Hon Hai Precision Industry Co., Ltd.",GuangDongShenZhen ShenZhen GuangDong CN 518109 
-MA-L,70B306,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,B8496D,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,A0FB83,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,9C924F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,200E2B,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F0D793,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,70B306,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,B8496D,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,906560,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
+MA-L,880AA3,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,303D51,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -25566,6 +25567,8 @@ MA-L,7C2ACA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,288EEC,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,A08CF2,"YINUOLINK CO.,LTD","3F, Bldg 5, Gaoxinjian Industrial Park, Fuyuan 1st Road, Heping, Fuhai, Bao'an Shenzhen Guangdong CN 518103 "
 MA-L,40475E,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,20E6DF,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,F4931C,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -31932,6 +31935,9 @@ MA-L,B88F27,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulo
 MA-L,88200D,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,BC1541,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,946DAE,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
+MA-L,40FDF3,"AMPAK Technology,Inc.","3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
+MA-L,E4A634,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
+MA-L,2C8D37,Virtium,30052 Tomas Racho Santa MArgarita CA US 92688 
 MA-M,741AE09,Private,
 MA-M,208593B,IOG Products LLC,9737 LURLINE AVENUE CHATSWORTH CA US 91311 
 MA-M,B0C5CAF,Private,
@@ -32783,6 +32789,7 @@ MA-M,0C7FEDA,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 
 MA-M,FC61795,Qisda Corporation,"No. 157, Shanying Rd., Gueishan Dist., Taoyuan City 33341, Taiwan Taoyuan  TW 33341 "
 MA-M,0C7FED0,"Guangdong Tianshu New Energy Technology Co., Ltd","No.8 Huishang Road, Infore Enviro Industrial Park, Jiangcun Village, Leliu Street, Shunde District,  Foshan  CN 528000 "
 MA-M,FC6179C,"Shenzhen Xmitech Electronic Co.,Ltd","Room 8B1888, Block AB, New Energy Building, No.2239, Nanhai Avenue, Nanguang Community, Nanshan Street, Nanshan District, Shenzhen Shenzhen  CN 518054 "
+MA-M,303D511,"SHENZHEN WLINK TECHNOLOGY CO., LTD.","201, F5 Building, TCL International E City, No.1001 Zhongshanyuan Rd., Nanshan Dist. Shenzhen Guangdong CN 518052 "
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -37158,6 +37165,7 @@ Alexander Rd, Westmead Durban KwaZulu Natal ZA 3610 "
 MA-S,8C1F64949,tickIoT Inc.,"651 N Broad St Ste 206, Ste 206 Middletown DE US 19709 "
 MA-S,8C1F642C5,SYSN,"the third floor, 26, Namsan-ro 39beon-gil, Uichang-gu Changwon-si, Gyeongsangnam-do, Republic of Korea  KR 51368 "
 MA-S,8C1F64DB7,Lambda Systems Inc.,2-11-26 Sangenjaya Setagaya-ku Tokyo JP 154-0024 
+MA-S,8C1F649F4,Grossenbacher Systeme AG,Spinnereistrasse 10 St. Gallen  CH 9008 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -38126,6 +38134,8 @@ Suite 300 Plainsboro NJ US 08536 "
 MA-S,8C1F643E3,FMTec GmbH - Future Management Technologies,Austraße 59e Bludenz Austria AT 6700 
 MA-S,8C1F64CC6,Genius Vision Digital Private Limited,"S-39, GF JANTA MARKET, RAJOURI GARDEN,
 NEW DELHI - 110027 new delhi new delhi IN 110027 "
+MA-S,8C1F641F0,AVCOMM Technologies Inc,"333 West Loop N Freeway
+Suite 460 Houston TX US 77024-7338 "
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -40081,6 +40091,9 @@ MA-S,8C1F64683,SLAT,11 Rue Jean-Elysée DUPUY Champagne au Mont d'Or Rhône FR 6
 MA-S,8C1F647AF,E VISION INDIA PVT LTD ,"9/205, MAIN MARKET OLD FARIDABAD HARYANA INDIA 121002 Faridabad HARYANA IN 121002 "
 MA-S,8C1F6473B,Fink Zeitsysteme GmbH,Möslestraße 21 Altach Vorarlberg AT 6844 
 MA-S,70B3D5C75,PLANET INNOVATION (PI),6 Thomas Irvine CA US 92618 
+MA-S,8C1F64DD7,KST technology,"KST B/D 4-5, Wiryeseong-daero 12-gil Songpa-gu Seoul KR 05636 "
+MA-S,8C1F64FB5,Bavaria Digital Technik GmbH,Rehbichler Weg 26 Pfronten Bayern DE 87459 
+MA-S,8C1F64CF4,NT,Azrieli Circular Tower132 Menachem Begin Rd Tel Aviv  IL 6701101 
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -41040,3 +41053,4 @@ MA-S,8C1F64EE0,Private,
 MA-S,8C1F64301,Agar Corporation Inc.,5150 Tacoma Dr Houston TX US 77041 
 MA-S,8C1F64746,Sensus Healthcare,"851 Broken Sound Parkway NW, Suite 215 Boca Raton FL US 33487 "
 MA-S,8C1F64DFE,Nuvation Energy,40 Bathurst Drive Waterloo Ontario CA N2V 1V6 
+MA-S,8C1F64268,Astro Machine Corporation,630 Lively Blvd Elk Grove Village IL US 60007 
