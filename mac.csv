@@ -6786,7 +6786,6 @@ MA-L,48FDA3,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO
 MA-L,001697,NEC Corporation,"7-1, Shiba 5-chome Minato-ku, tokyo Tokyo JP 108-8001 "
 MA-L,003013,NEC Corporation,"1-10 Nisshincho, Fuchu Tokyo 183-8501  JP 0000 "
 MA-L,049DFE,Hivesystem,"816 Kranz-techno Bldg. 388 dunchondaero, jun Gyeonggi-do  KR KSXX0024 "
-MA-L,9CDB07,Thum+Mahr GmbH,Heinrich-Hertz-Strasse 1-3 Monheim am Rhein NRW DE 40789 
 MA-L,DCEB69,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
 MA-L,004E35,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,F81308,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
@@ -13002,6 +13001,8 @@ MA-L,440CEE,Robert Bosch Elektronikai Kft.,Robert Bosch u. 1. Hatvan Heves Count
 MA-L,301984,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,80DECC,"HYBE Co.,LTD","42, Hangang-daero Yongsan-gu Seoul KR 04389 "
 MA-L,C435D9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,D46137,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,9CDB07,Yellowtec GmbH,Heinrich-Hertz-Strasse 1-3 Monheim am Rhein NRW DE 40789 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -35160,8 +35161,9 @@ MA-M,4C74A79,Suzhou XiongLi Technology Inc.,"Unit E502-1, International Science 
 MA-M,4C74A70,"Shenzhen Timekettle Technologies Co.,Ltd","Room 612, Building 4, Minqi Science Park, No. 65 Lishan Road, Pingshan Community, Taoyuan Street, Nanshan District,  Shenzhen Guangdong CN 518071 "
 MA-M,4C74A74,"Wuxi Micro Innovation Integrated Circuit Design Co., Ltd","12th Floor A3 Building, No. 777, West Jianzhu Road, Binhu District, Wuxi City, Jiangsu Province Jiangsu  CN 214028 "
 MA-M,94C9B79,Private,"35F, Shenzhen Bay VC&PE Bldg, No.25, Haitian 2nd Rd, Binhai  Comm, Yuehai St., Nanshan Dist, Shenzhen shenzhen guangdong CN 518000 "
-MA-M,4C74A7A,RAONARK,"121, Digital-ro Geumcheon-gu Seoul KR 08505 "
+MA-M,D461378,Beijing Digital China Yunke Technology Limited,"R301, 3F, NO9, shangdi 9th street, haidian district, beijing Beijing Beijing CN 100085 "
 MA-M,4C74A77,COREIP TECHNOLOGY PRIVATE LIMITED,"C-421, The iTHUM, Sector 62 Noida  IN 201309 "
+MA-M,4C74A7A,RAONARK,"121, Digital-ro Geumcheon-gu Seoul KR 08505 "
 MA-M,4C4BF96,"Shandong Linkotech Electronic Co., Ltd.","22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone Jinan Shandong CN 250101 "
 MA-M,4C4BF93,"Power Active Co., Ltd","4F, No.23, Wugong 6th Rd., Wugu Dist. New Taipei City  TW 248 "
 MA-M,4C4BF90,Multitek Elektronik Sanayi ve Ticaret A.S.,"Meclis Mah. Ataturk Cad. No:47, sancaktepe istanbul  TR 34785 "
@@ -36037,6 +36039,7 @@ MA-M,D096869,Camfil,"Avda. Juan Carlos I, Nº13 4ªPlanta Alcalá de Henares Mad
 MA-M,4C74A73,GoCodeIT Inc,"8171 Yonge Street
 Suite 255 Thornhill Ontario CA L3T2C6 "
 MA-M,4C74A7C,N3com,"Proektiruemiy proezd 4062, 6b1, office 71 Moscow  RU 115432 "
+MA-M,D461373,"APPOTRONICS CO., LTD","22F,High-tech Zone Union Tower 63 Xuefu Road Shenzhen China Shenzhen Guangdong CN 518000 "
 MA-M,2085937,Great Lite International,"11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City Taiwan TW 23143 "
 MA-M,4C4BF99,Tecnoplus Srl,"Via Cilavegna, 53 Gravellona Lomellina Pavia IT 27020 "
 MA-M,9806372,Summa nv,Rochesterlaan 6 Gistel  BE 8470 
@@ -37961,6 +37964,8 @@ MA-S,8C1F6450E,Panoramic Power,Atir Yeda 15 Kfar Saba  IL 4464312
 MA-S,8C1F649A4,LabLogic Systems,"Paradigm House, Melbourne Avenue, Sheffiled South Yorkshire GB S10 2QJ "
 MA-S,8C1F640D5,"RealD, Inc.","9777 Wilshire Boulevard, Ste 430  Beverly Hills CA US 90212 "
 MA-S,8C1F64117,Grossenbacher Systeme AG,Spinnereistrasse 10 St. Gallen  CH 9008 
+MA-S,8C1F64676,sdt.net AG,Ulmer Str. 130 Aalen Baden-Wuerttemberg DE 73431 
+MA-S,8C1F64C44,Sypris Electronics,10901N McKinley Dr Tampa  US 33612 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -39961,6 +39966,7 @@ MA-S,8C1F647E7,robert juliat,32 route de beaumont fresnoy en thelle Oise FR 6053
 MA-S,8C1F64354,Paul Tagliamonte,PO Box 15335 Washington DC US 20003 
 MA-S,70B3D5591,"Medicomp, Inc",600 Atlantis Rd Melbourne FL US 32904 
 MA-S,8C1F64009,Converging Systems Inc.,32420 Nautilus Drive Rancho Palos Verdes CA US 90275 
+MA-S,8C1F6426E,Koizumi Lighting Technology Corp.,"3-5-2-Chome Higashinakamoto,Higashinari-ku,Osaka  JP 537-0021 "
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
