@@ -5343,7 +5343,6 @@ MA-L,C014B8,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,00763D,Veea,164 E 83rd Street New York NY US 10028 
 MA-L,3093BC,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,FCF5C4,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,E826B6,Inside Biometrics International Limited,Strathpeffer Road Dingwall Scotland GB IV159QF 
 MA-L,54CE69,"Hikari Trading Co.,Ltd.","Hikari Building,7-4-14,Ginza,Chuo-ku Tokyo  JP 104-0061 "
 MA-L,6CC63B,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
 MA-L,588E81,Silicon Laboratories,7000 W. William Cannon Dr. Austin TX US 78735 
@@ -6548,10 +6547,12 @@ MA-L,A8169D,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan In
 MA-L,ACAD4B,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,444988,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,74057C,Qorvo International Pte. Ltd.,1 Changi Business Park Avenue 1 #04-01  SG 486058 
-MA-L,5026EF,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
+MA-L,E826B6,Companies House to GlucoRx Technologies Ltd.,Strathpeffer Road Dingwall Scotland GB IV159QF 
 MA-L,9C5440,ChengDu TD Tech,"C3 floor, software park, No. 219, Tianhua Second Road Chengdu Tianfu Avenue, high tech Zone CN 610041 "
-MA-L,F0221D,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,5026EF,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
 MA-L,4CBA7D,"Gemtek Technology Co., Ltd.",No.15-1 Zhonghua Road Hukou Hsinchu TW 30352 
+MA-L,F0221D,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,80AB4D,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -26064,6 +26065,7 @@ MA-L,7493DA,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI 
 MA-L,C84AA0,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 
 MA-L,4C968A,"Wacom Co.,Ltd.","Sumitomo Fudosan Shinjuku Grand Tower 31F,8-17-1 Nishi-shinjuku,Shinjuku-ku Tokyo JP 160-6131 "
 MA-L,B0EB7F,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
+MA-L,48555E,"Shenzhen Skyworth  Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -33443,6 +33445,7 @@ MA-M,D096868,Energiekonzepte Deutschland GmbH,"Straße des 17. Juni, 4a Taucha S
 MA-M,D096864,Houston Radar LLC,12818 Century Dr Stafford  US 77477 
 MA-M,4C74A7D,ddcpersia,No:36 14St Vozara Ave Argantin Sq Tehran/Iran Tehran Tehran IR 1511764311 
 MA-M,D46137C,"MUSASHI ENGINEERING,INC.",8-7-4 SHIMORENJAKU MITAKA-SHI TOKYO JP 181-0013 
+MA-M,F0221D0,THANHBINH COMPANY - E111 FACTORY,"Industrial Security, Lai Yen Ward Hanoi Hoai Duc District VN 13200 "
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -34285,6 +34288,7 @@ MA-M,D096860,SERNET (SUZHOU) TECHNOLOGIES CORPORATION,"NO.8 Tangzhuang Road,Suzh
 MA-M,4C74A78,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,D461370,Wistron Corporation," NO.5, HSIN AN ROAD, SCIENCE-BASED INDUSTRIAL PARK, HSINCHU, TAIWAN, R.O.C. Hsinchu County Taiwan TW 303036 "
 MA-M,D461375,Estelle AB,Sveavägen 124 Stockholm - SE 113 50 
+MA-M,F0221D4,Synergies Intelligent Systems Inc.,"11F, Number 277, Songren Rd, Xinyi District, Taipei City, Taiwan 110  Taipei Taiwan TW 101 "
 MA-M,2085933,"UNILUMIN GROUP CO.,LTD","No.112 Yongfu Rd.,BaoanDistrict, shenzhen guangdong CN 518103 "
 MA-M,2085936,Eilersen Electric A/S,Kokkedal Industripark 4 Kokkedal  DK 2980 
 MA-M,4C4BF9B,Stored Energy Systems,1840 Industrial Circle Longmont CO US 80501 
@@ -36082,6 +36086,7 @@ MA-M,D461372,Robert Bosch Elektronikai Kft.,Robert Bosch út 1. Hatvan Heves HU 
 MA-M,D461376,Securus CCTV India,"KM Electronic Cables Pvt Ltd, KM House, Near Maurya Complex, Ashram Road Ahmedabad  IN 380014 "
 MA-M,F0221D7,"Bulat Co., Limited","ROOM A1, 11/F WINNER BUILDING,36 MAN YUE STREET, HUNG HOM,KOWLOON,hongkong
  hongkong  HK 999077 "
+MA-M,F0221D9,Shanghai Gfanxvision Intelligent Technology Co.Ltd,"Room 506, No. 19, No. 498, GuoShouJing Road Shanghai Pudong New Area CN 201203 "
 MA-M,2085937,Great Lite International,"11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City Taiwan TW 23143 "
 MA-M,4C4BF99,Tecnoplus Srl,"Via Cilavegna, 53 Gravellona Lomellina Pavia IT 27020 "
 MA-M,9806372,Summa nv,Rochesterlaan 6 Gistel  BE 8470 
@@ -38014,10 +38019,10 @@ MA-S,8C1F64117,Grossenbacher Systeme AG,Spinnereistrasse 10 St. Gallen  CH 9008
 MA-S,8C1F64676,sdt.net AG,Ulmer Str. 130 Aalen Baden-Wuerttemberg DE 73431 
 MA-S,8C1F642A1,Pantherun Technologies Pvt Ltd,311 6th main road Hal 2nd stage Bangalore Karnataka IN 560038 
 MA-S,8C1F64C44,Sypris Electronics,10901N McKinley Dr Tampa  US 33612 
+MA-S,8C1F64F2F,Quantum Technologies Inc,991 DISCOVERY DR NW Huntsville AL US 35806 
 MA-S,8C1F64B08,Cronus Electronics,"7 Manor Road
 Manor Road WEYMOUTH Dorset GB DT3 5HR "
 MA-S,8C1F64BC3,FoxIoT OÜ,Mäealuse tn 2/1 Tallinn Harjumaa EE 12618 
-MA-S,8C1F64F2F,Quantum Technologies Inc,991 DISCOVERY DR NW Huntsville AL US 35806 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -39025,6 +39030,7 @@ MA-S,8C1F64F2D,HUERNER Schweisstechnik GmbH,Nieder-Ohmener Str. 26 Muecke  DE 35
 MA-S,8C1F64F22,Voyage Audio LLC,"3555 Rosecrans St, Suite #114-491 San Diego CA US 92110 "
 MA-S,8C1F6491D,enlighten,"396,Seocho-daero, seocho-gu, seoul, 06619 KR  KR 06619 "
 MA-S,8C1F647A4,Hirotech inc.,"Shinyokohama I/O Bldg, 1-3-10 Shinyokohama, Kohoku-ku Yokohama City Kanagawa JP 2220033 "
+MA-S,8C1F64573,Ingenious Technology LLC,"111 Deerwood Road, Suite 200 San Ramon CA US 94583 "
 MA-S,8C1F64867,Forever Engineering Systems Pvt. Ltd.,"B-817, 8th floor, Advant Navis Business Park, Sector-142 NOIDA Uttar Pradesh IN 201301 "
 MA-S,8C1F644FB,MESA TECHNOLOGIES LLC,5801 DIERKER DR HOUSTON TX US 77041-6214 
 MA-S,8C1F642E2,Mark Roberts Motion Control,UNIT 3 SOUTH EAST STUDIOS  EASTBOURNE ROAD LINGFIELD  GB RH7 6JP 
@@ -40029,6 +40035,7 @@ MA-S,8C1F642C6,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0
 MA-S,8C1F64AF0,MinebeaMitsumi Inc.,"3-9-6, Mita Minato-ku Tokyo JP 1080073 "
 MA-S,8C1F64387,OMNIVISION,4275 Burton Dr Santa Clara CA US 95054 
 MA-S,8C1F642A9,"Elbit Systems of America, LLC",3401 Quorum Drive (Suite 380) Fortworth TX US 76137 
+MA-S,8C1F6446A,Pharsighted LLC,7 Pepperidge Road Boonton Township NJ US 07005 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
