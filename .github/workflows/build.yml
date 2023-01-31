@@ -3,7 +3,7 @@ name: CI/CD
 on:
   schedule:
     # 避开高峰时间
-    - cron: "9 9 * * *"
+    - cron: "9 9 * * 0"
   # 允许手动运行
   workflow_dispatch:
 
