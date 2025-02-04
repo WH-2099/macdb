@@ -1,4 +1,4 @@
-# MAC Address Databas 
+# MAC Address Database
 MAC 地址厂商信息数据库
 
 ## 功能
