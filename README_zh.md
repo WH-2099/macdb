@@ -48,6 +48,18 @@ MAC 地址厂商信息数据库
    与数据库的 `assignment` 字段进行精确匹配。
 6. 若有结果直接返回，无结果返回空。
 
+### Python 使用示例
+
+你可以直接使用仓库中提供的 [lookup.py](lookup.py) 脚本进行查询：
+
+```bash
+# 使用方法
+python lookup.py <MAC_ADDRESS>
+
+# 示例
+python lookup.py AA:BB:CC:00:11:22
+```
+
 ### 官方查询页面
 
 <https://regauth.standards.ieee.org/standards-ra-web/pub/view.html>
