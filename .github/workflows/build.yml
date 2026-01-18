@@ -1,0 +1,27 @@
+name: Build and Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup DuckDB
+        uses: opt-nc/setup-duckdb-action@v1.2.1
+
+      - name: Build database
+        run: duckdb < build.sql
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "auto: update mac.csv"
+          file_pattern: "mac.csv"
