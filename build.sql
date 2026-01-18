@@ -20,7 +20,7 @@ SELECT
     "Organization Name" AS org_name,
     "Organization Address" AS org_address
 FROM raw_mac
-ORDER BY assignment ASC;
+ORDER BY assignment, registry, org_name, org_address;
 
 COPY mac TO 'mac.csv' (HEADER TRUE);
 
