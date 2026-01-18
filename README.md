@@ -46,6 +46,18 @@ Data files are available directly in the repository:
    Perform an exact match against the `assignment` field in the database.
 6. If there is a result, return it directly; if no result, return empty.
 
+### Python Example
+
+You can use the provided [lookup.py](lookup.py) script to query the database:
+
+```bash
+# Usage
+python lookup.py <MAC_ADDRESS>
+
+# Example
+python lookup.py AA:BB:CC:00:11:22
+```
+
 ### Official Lookup Page
 
 <https://regauth.standard.ieee.org/standards-ra-web/pub/view.html>
