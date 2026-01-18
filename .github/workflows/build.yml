@@ -18,7 +18,12 @@ jobs:
         uses: opt-nc/setup-duckdb-action@v1.2.1
 
       - name: Build database
-        run: duckdb < build.sql
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 3
+          max_attempts: 9
+          retry_wait_seconds: 60
+          command: duckdb < build.sql
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v7
