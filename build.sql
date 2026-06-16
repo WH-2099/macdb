@@ -3,9 +3,9 @@ LOAD httpfs;
 
 CREATE VIEW raw_mac AS
 SELECT * FROM read_csv([
-    'http://standards-oui.ieee.org/oui/oui.csv',
-    'http://standards-oui.ieee.org/oui28/mam.csv',
-    'http://standards-oui.ieee.org/oui36/oui36.csv'
+    'https://standards-oui.ieee.org/oui/oui.csv',
+    'https://standards-oui.ieee.org/oui28/mam.csv',
+    'https://standards-oui.ieee.org/oui36/oui36.csv'
 ], header=True, columns={
     'Registry': 'TEXT',
     'Assignment': 'TEXT',

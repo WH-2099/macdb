@@ -64,9 +64,9 @@ python lookup.py AA:BB:CC:00:11:22
 
 ### Official Data Sources
 
-1. MAC Address Block Large (**MA-L**) [TXT](http://standards-oui.ieee.org/oui/oui.txt) [CSV](http://standards-oui.ieee.org/oui/oui.csv)
-2. MAC Address Block Medium (**MA-M**) [TXT](http://standards-oui.ieee.org/oui28/mam.txt) [CSV](http://standards-oui.ieee.org/oui28/mam.csv)
-3. MAC Address Block Small (**MA-S**) [TXT](http://standards-oui.ieee.org/oui36/oui36.txt) [CSV](http://standards-oui.ieee.org/oui36/oui36.csv)
+1. MAC Address Block Large (**MA-L**) [TXT](https://standards-oui.ieee.org/oui/oui.txt) [CSV](https://standards-oui.ieee.org/oui/oui.csv)
+2. MAC Address Block Medium (**MA-M**) [TXT](https://standards-oui.ieee.org/oui28/mam.txt) [CSV](https://standards-oui.ieee.org/oui28/mam.csv)
+3. MAC Address Block Small (**MA-S**) [TXT](https://standards-oui.ieee.org/oui36/oui36.txt) [CSV](https://standards-oui.ieee.org/oui36/oui36.csv)
 
 ### Official Matching Guidance
 
